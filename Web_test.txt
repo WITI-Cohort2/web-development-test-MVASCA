@@ -1,0 +1,37 @@
+QUESTION ONE
+ Name:     BILIKA MELODY
+ Reg.No:   2022/DCSE/011/ss
+
+(a). Elements
+Elements are designators that are enclosed by angle brackets that show what you are going to do on the page
+eg; <p></p> shows that you are creating a paragraph on your page
+
+
+(b). Attributes
+Attributes are extra descriptions given to an element mostly to style them
+eg; font-size, background-color, color
+
+(c). Selectors
+Selectors are tools used to select a certain element or tag inorder to style it
+eg; using class and id
+
+(d). Semantic elements
+Semantic elements are elements that show that your code is written right and with meaning mostly for easy accessibility
+eg; <section>
+    <main>
+    <footer>
+    <article>
+    <aside>
+
+(e). Web accessibility
+Web accessibility is the ease with which a website is used by people both normal and with disabilities like visual, in order navigate
+through the page.
+eg; putting landmarks in your page
+    using autocomplete
+    using self explanatory images
+    putting error messages
+    using easily seen font size and type
+    
+
+(f). Web server
+A web server is a computer that stores all files related to a web page for easy display on the web browser.

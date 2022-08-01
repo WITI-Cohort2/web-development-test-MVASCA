@@ -1,0 +1,24 @@
+.container{
+    background-color: lightgrey;
+    width: 700px;
+    height: 400px;
+    font-size: 30px;
+    margin-left: 100px;
+        
+}
+#p{
+    background-color:rgba(255, 20, 145, 0.26) ;
+    text-align: center;
+}
+
+td{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.897);
+
+}
+
+tr{
+    padding-left: 300px;
+    padding-left: 100px;
+
+}
